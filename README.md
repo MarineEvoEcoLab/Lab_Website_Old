@@ -1,2 +1,2 @@
-# lab_website
+# Lab_Website
 Lab Website
