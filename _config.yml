@@ -5,3 +5,6 @@ baseurl: /Lab_Website/      # place folder name if the site is served in a subfo
 repository: MarineEvoEcoLab/Lab_Website
 github: [metadata]
 
+title: Puritz Lab of Marine Evolutionary Ecology
+email: your-email@domain.com
+author: GitHub User
