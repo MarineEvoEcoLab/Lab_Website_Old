@@ -1,4 +1,4 @@
-remote_theme: "MarineEvoEcoLab/jekyll-theme-yat"
+remote_theme: hydecorp/hydejack@v9.1.4
 domain: marineevoecolab.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://marineevoecolab.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /Lab_Website/      # place folder name if the site is served in a subfolder
