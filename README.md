@@ -1,0 +1,1 @@
+[![Build and Deploy to Github Pages](https://github.com/MarineEvoEcoLab/Lab_Website/actions/workflows/build-jekyll.yml/badge.svg)](https://github.com/MarineEvoEcoLab/Lab_Website/actions/workflows/build-jekyll.yml)
